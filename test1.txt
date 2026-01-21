@@ -1,4 +1,0 @@
-file input
-buffering
-reading
-writing
