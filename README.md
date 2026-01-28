@@ -1,3 +1,5 @@
-As files are currently unorganized (will be fixed soon), the most sigificant projects begin as project(#), with later numbers implementing more advanced techniques. 
+**Operating System Projects**
+These projects are designed to convey understanding of operating systems. 
 
-Individual file documentation will soon be added for ease of use in running the code. 
+**Simple Projects**
+These are the projects I produced when I was first learning C as a programming language, so most of them tend to be pretty simple. The most complicated are the linked list and file parsing programs.
