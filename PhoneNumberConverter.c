@@ -1,5 +1,5 @@
 // Westley Yarlott
-// This program converts the letters in a phone number the user enters to their numerical equivalent.
+// This program converts the letters in a phone number to the alphabetical equivalent.
 
 #include <stdio.h>
 #include <ctype.h>

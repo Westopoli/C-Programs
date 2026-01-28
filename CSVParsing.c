@@ -1,5 +1,8 @@
 // Westley Yarlott
 // This program output's a user requested set of games to a file based on the console name entered by the user.
+// File input is read from a user specified .csv file and output is written to result.csv.
+    // note: .csv file was lost to the unending shores of time, I apologize for any inconvienience.
+        // though, scanning function could be modified to fit your csv if needed
 
 #include <stdio.h>
 #include <string.h>

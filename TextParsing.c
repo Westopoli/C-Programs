@@ -2,8 +2,6 @@
 // This program loops through user entered string and determines if the word the user entered contains 3 of the same consecutive letters at more 
 // than one point within the word. 
 
-// I urge users to test longer string combinations than the tests on gradescope (this program can handle words/strings a lot larger than those)
-
 #include <stdio.h>
 
 // 1000 is the maximum allowed number of characters to be entered
